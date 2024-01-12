@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'Chernobyl';
+    src: url('../FONTS/fonts/Chernobyl.otf') format('woff2'),
+         url('../FONTS/fonts/poppins-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+  
+  }
+  
